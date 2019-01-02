@@ -175,7 +175,7 @@
 
 							<div class="mu-title-area">
 								<h2 class="mu-title">Our Partners</h2>
-								<p>Happy Bangladesh is partnered with below entities</p>
+								<p>My Events is partnered with below entities</p>
 							</div>
 
 							<!-- Start Speakers Content -->
