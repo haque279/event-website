@@ -1,4 +1,4 @@
-<h4>A Laravel 5.7 project with registration and contact form </h4>
+<h2>A Laravel 5.7 project with registration and contact form </h2>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
