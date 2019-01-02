@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Happy Bangladesh : Smile for all.</title>
+    <title>My Events : Smile for all.</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
     <!-- Font Awesome -->
@@ -53,7 +53,7 @@
                 </button>
 
                 <!-- Logo -->
-                <a class="navbar-brand" href="/">Happy Bangladesh</a>
+                <a class="navbar-brand" href="/">My Events</a>
 
             </div>
 
@@ -82,7 +82,7 @@
                     <!-- Start center Logo -->
                     <div class="mu-logo-area">
                         <!-- text based logo -->
-                        <a class="mu-logo" href="#">Happy Bangladesh</a>
+                        <a class="mu-logo" href="#">My Events</a>
                         <!-- image based logo -->
                         <!-- <a class="mu-logo" href="#"><img src="assets/images/logo.jpg" alt="logo img"></a> -->
                     </div>
@@ -124,7 +124,7 @@
                 </div>
             </div>
             <div class="mu-footer-bottom">
-                <p class="mu-copy-right">&copy; Copyright <a rel="nofollow" href="http://happybangladesh.org">Happy Bangladesh</a>. All right reserved.</p>
+                <p class="mu-copy-right">&copy; Copyright <a rel="nofollow" href="http://myevents.org">My Events</a>. All right reserved.</p>
             </div>
         </div>
     </div>
